@@ -1,0 +1,3 @@
+$ cat .git/info/exclude
+# ignore the ff
+~
